@@ -1,0 +1,24 @@
+{
+  "name": "use-php",
+  "version": "0.1.0",
+  "description": "A React hook so you can use PHP in your components.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "uniter": "2.13.0"
+  },
+  "devDependencies": {
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "typescript": "3.3.3"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
