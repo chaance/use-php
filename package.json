@@ -4,6 +4,7 @@
   "description": "A React hook so you can use PHP in your components.",
   "keywords": [],
   "main": "src/index.js",
+  "repository": "https://github.com/chancestrickland/use-php",
   "dependencies": {
     "uniter": "2.13.0"
   },
